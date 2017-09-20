@@ -41,6 +41,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>RESTQ</finalName>
+    <finalName>ROOT</finalName>
   </build>
 </project>
